@@ -19,3 +19,4 @@ Mealplans.iml
 # Catch-all for exported meal plans
 *.md
 *.html
+!README.md
