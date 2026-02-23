@@ -40,7 +40,3 @@ The script infers dates from the ISO calendar, so make sure your markdown headin
 - Print stylesheet keeps the two-column grid and avoids breaking meal cards across pages.
 - Update the CSS inside `mealplan_to_html.py` if you want different colors or fonts; no external assets are required.
 
-## Tips
-
-- Keep sensitive content in the numbered month folders so `.gitignore` can protect it and they stay ordered chronologically.
-- Commit the script and README so collaborators have the tooling, but share actual meal plans over a private channel.
